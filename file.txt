@@ -1,0 +1,1 @@
+print ("This will be a test file configured for practice purpose")
